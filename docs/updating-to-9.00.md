@@ -53,3 +53,5 @@ We will ensure that the PS4 uses the update file we want by disabling network co
     - If you are trying to update to a different firmware version, this text should say the firmware that you want instead
 1. Press "Next"
 1. Press "Update"
+
+Your PS4 should restart to complete the update. Once finished, you should boot back into firmware 9.00.
