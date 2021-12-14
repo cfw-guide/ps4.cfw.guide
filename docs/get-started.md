@@ -40,12 +40,12 @@ Before starting, Windows users should enable the option to show file extensions 
     <tr>
       <td>1.00</td>
       <td>8.50</td>
-      <td><a href="updating-to-9.00">Updating to 9.00</a></td>
+      <td><router-link to="updating-to-9.00.html">Updating to 9.00</router-link></td>
     </tr>
     <tr>
       <td>9.00</td>
       <td>9.00</td>
-      <td><a href="installing-poobs4">Installing pOOBs4</a></td>
+      <td><router-link to="installing-poobs4.html">Installing pOOBs4</router-link></td>
     </tr>
     <tr>
       <td>9.03</td>
