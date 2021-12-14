@@ -7,7 +7,7 @@ header:
   overlay_title: PS4 Guide
   overlay_excerpt: A very much incomplete PS4 modding guide, from stock to jailbroken.
   overlay_image: /assets/images/splash.png
-  overlay_filter: 0.3
+  overlay_filter: 0.2
   overlay_color: 1a1d24
   cta_label: "Get Started"
   cta_url: /get-started
