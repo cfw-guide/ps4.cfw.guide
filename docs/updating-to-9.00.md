@@ -55,3 +55,9 @@ We will ensure that the PS4 uses the update file we want by disabling network co
 1. Press "Update"
 
 Your PS4 should restart to complete the update. Once finished, you should boot back into firmware 9.00.
+
+#### Section IV - Finishing up
+
+1. Open the Settings application
+1. Navigate to the "Network" section and open it
+1. To use network functionality, enable "Connect to the Internet"
