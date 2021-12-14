@@ -42,6 +42,7 @@ When this is complete, unmount and unplug your USB storage device from your comp
 1. A notification should appear saying **"This USB storage device's file system is unsupported"**
 1. Click "OK"
     - The webpage should now display "Awaiting Payload..."
+    - If the exploit fails at this point, reboot your console and try again
 1. Unplug the USB from your PS4
 
 ::: danger
