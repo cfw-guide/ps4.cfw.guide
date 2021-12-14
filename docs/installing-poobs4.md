@@ -35,6 +35,7 @@ When this is complete, unmount and unplug your USB storage device from your comp
 
 1. Open the Internet Browser application on your PS4
 1. Navigate to [https://kameleonreloaded.github.io/900/](https://kameleonreloaded.github.io/900/)
+    - If you get an error, simply try loading the page again
 1. A prompt should appear, saying: **"Insert USB now. do not close the dialog until the notification pops, remove usb after closing it."**
     - Do not click "OK" yet
 1. Insert your USB storage device into your PS4
