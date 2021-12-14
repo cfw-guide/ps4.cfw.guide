@@ -1,7 +1,7 @@
-## ios.cfw.guide
+## ps4.cfw.guide
 A complete iOS modding guide, from stock to jailbroken.
 
-https://ios.cfw.guide
+https://ps4.cfw.guide
 
 ## Running the site locally
 
@@ -18,7 +18,3 @@ to install all packages required by the website (VuePress v2 and plugins), then
 yarn docs:dev
 ```
 to build the Markdown files into HTML and start a testing webserver on http://127.0.0.1:8080.
-
-## Translating
-
-To help translate ios.cfw.guide, please contribute to its [Crowdin project](https://crowdin.com/project/ioscfwguide). Do not PR changes directly to the repository as that will conflict with the translations managed by Crowdin.
