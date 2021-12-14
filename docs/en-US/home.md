@@ -1,12 +1,12 @@
 ---
 lang: en-US
 title: Home
-description: A complete PS4 modding guide, from stock to jailbroken.
+description: A very much incomplete PS4 modding guide, from stock to jailbroken.
 permalink: /
 home: true
 header:
   overlay_title: PS4 Guide
-  overlay_excerpt: A complete PS4 modding guide, from stock to jailbroken.
+  overlay_excerpt: A very much incomplete PS4 modding guide, from stock to jailbroken.
   overlay_image: /assets/images/splash.png
   overlay_filter: 0.3
   overlay_color: 1a1d24
