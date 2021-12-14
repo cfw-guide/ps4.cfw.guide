@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Updating to 9.00 (Offline)
+title: Updating to 9.00
 ---
 
 ## Required Reading

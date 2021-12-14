@@ -8,7 +8,7 @@ title: Installing pOOBs4
 - A computer
 - A USB storage device
 - The exfathax `.img` exploit file <a href="https://github.com/ChendoChap/pOOBs4/raw/main/exfathax.img" target="_blank"><i class="fas fa-download" style="margin-left: .3em;"></i></a>
-- The latest version of [Rufus](https://rufus.ie/en/)
+- The latest release of [Rufus](https://rufus.ie/en/)
 
 ## Instructions
 
