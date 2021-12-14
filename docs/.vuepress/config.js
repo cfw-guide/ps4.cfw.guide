@@ -25,6 +25,10 @@ module.exports = {
   extendsMarkdown: (md) => {
       md.use(require('markdown-it-include'))
   },
+  
+  head: [
+    [ 'link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.6.1/css/all.css' } ],
+  ],
 
 	templateDev: path.join(__dirname, 'templates', 'index.dev.html'),
 	templateSSR: path.join(__dirname, 'templates', 'index.ssr.html'),

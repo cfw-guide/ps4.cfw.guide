@@ -1,7 +1,6 @@
 ---
 lang: en-US
 title: Get Started
-permalink: /get-started
 sidebar: false
 ---
 
@@ -14,8 +13,12 @@ Select the appropriate page for your version from the chart below. Note that the
 Your device version can be found under the System Information menu in the System category of the Settings application.
 
 ::: tip
+
 Before starting, Windows users should enable the option to show file extensions using [File Extensions (Windows)](file-extensions-(windows))!
+
 :::
+
+![Screenshot of PS4 System Settings](/assets/images/ps4update.jpg)
 
 ### Version Table
 
@@ -32,10 +35,10 @@ Before starting, Windows users should enable the option to show file extensions 
     <tr>
       <td>1.00</td>
       <td>7.55</td>
-      <td>Coming Soon</td>
+      <td>Not done</td>
     </tr>
     <tr>
-      <td>8.00</td>
+      <td>1.00</td>
       <td>8.50</td>
       <td><a href="updating-to-9.00">Updating to 9.00</a></td>
     </tr>

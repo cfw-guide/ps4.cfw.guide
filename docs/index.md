@@ -2,7 +2,6 @@
 lang: en-US
 title: Home
 description: A very much incomplete PS4 modding guide, from stock to jailbroken.
-permalink: /
 home: true
 header:
   overlay_title: PS4 Guide
