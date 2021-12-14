@@ -46,6 +46,6 @@ When this is complete, unmount and unplug your USB storage device from your comp
 
 ::: danger
 
-You must <u>**not**</u> have your flashed USB storage device plugged in when booting your PS4. Doing so can cause corruption.
+You must <u>**not**</u> have your flashed USB storage device plugged in when (re)booting your PS4. Doing so can cause corruption.
 
 :::
