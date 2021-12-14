@@ -1,7 +1,6 @@
 ---
 lang: en-US
 title: Updating to 9.00 (Offline)
-sidebar: auto
 ---
 
 ## Required Reading
@@ -16,7 +15,8 @@ We will ensure that the PS4 uses the update file we want by disabling network co
 
 ## What you need
 
-- An exFAT or FAT32 formatted USB drive with ~500MB of free space
+- A computer
+- An exFAT or FAT32 formatted USB storage device with ~500MB of free space
 - The `PS4UPDATE.PUP` file corresponding to the firmware version you are trying to update to
   - [<i class="fas fa-download"></i> PS4UPDATE.PUP](https://archive.org/download/PS4-System-Firmwares/Firmware%209.00/PS4UPDATE.PUP) (9.00)
 
