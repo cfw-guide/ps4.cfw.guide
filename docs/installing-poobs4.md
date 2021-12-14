@@ -34,7 +34,7 @@ When this is complete, unmount and unplug your USB storage device from your comp
 ### Section III - Launching the exploit
 
 1. Open the Internet Browser application on your PS4
-1. Navigate to [https://kameleonreloaded.github.io/900/](https://kameleonreloaded.github.io/900/)
+1. Navigate to [https://ps4.emiyl.com/900](/900)
     - If you get an error, simply reload the page and try again
 1. A prompt should appear, saying: **"Insert USB now. do not close the dialog until the notification pops, remove usb after closing it."**
     - Do not click "OK" yet
