@@ -1,7 +1,7 @@
 ## ps4.cfw.guide
 A complete PS4 modding guide, from stock to jailbroken.
 
-https://ps4.cfw.guide
+https://ps4.emiyl.guide
 
 ## Running the site locally
 
