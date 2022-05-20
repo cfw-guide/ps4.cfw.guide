@@ -38,7 +38,7 @@ Before starting, Windows users should enable the option to show file extensions 
       <td>Not done</td>
     </tr>
     <tr>
-      <td>1.00</td>
+      <td>8.00</td>
       <td>8.50</td>
       <td><router-link to="updating-to-9.00.html">Updating to 9.00</router-link></td>
     </tr>
@@ -49,7 +49,7 @@ Before starting, Windows users should enable the option to show file extensions 
     </tr>
     <tr>
       <td>9.03</td>
-      <td>9.03</td>
+      <td>9.60</td>
       <td>--</td>
     </tr>
   </tbody>
