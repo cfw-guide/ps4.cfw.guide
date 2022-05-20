@@ -3,10 +3,10 @@
         "@vuepress/bundler-vite": "2.0.0-beta.27",
         "yarn": "^1.22.17"
     },
-    "name": "ios.cfw.guide",
+    "name": "ps4.cfw.guide",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "github.com/cfw-guide/ios.cfw.guide",
+    "repository": "github.com/cfw-guide/ps4.cfw.guide",
     "author": "emiyl <me@emiyl.com>",
     "license": "MIT",
     "devDependencies": {
