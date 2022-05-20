@@ -33,9 +33,9 @@ Jailbreaking is free and easy on most devices.
 
 ## What can I do once jailbroken?
 
-- Point 1
-- Point 2
-- Point 3
+- Install Game Mods & Patches with [ORBISPatches](https://www.orbispatches.com).
+- Run a Linux Distribution.
+- Run Emulators & Homebrew apps.
 
 ## What should I know before starting?
 
@@ -45,5 +45,5 @@ Before following the steps of this guide, you must know the risks of jailbreakin
 
 :::
 
-- If no issues occur during installation, you will be jailbroken without any data loss
-- You may be vulnerable to more malware and other security issues after jailbreaking compared to if you were in a non-jailbroken state
+- If no issues occur during installation, you will be jailbroken without any data loss.
+- You may be vulnerable to more malware and other security issues after jailbreaking compared to if you were in a non-jailbroken state.
